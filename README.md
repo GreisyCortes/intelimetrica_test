@@ -1,6 +1,6 @@
 Proyecto Django CRUD
 Descripción
-Este proyecto es una aplicación web de Django que implementa las operaciones básicas de CRUD (Crear, Leer, Actualizar, Eliminar) para la gestión de una entidad. Está diseñado para ser una base sobre la cual se pueden construir aplicaciones más complejas.
+Este proyecto es una aplicación web de Django que implementa las operaciones básicas de CRUD (Crear, Leer, Actualizar, Eliminar) para la gestión de un Restaurante.
 
 Requisitos
 Para ejecutar este proyecto, necesitas tener instalados los siguientes programas:
